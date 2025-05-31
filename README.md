@@ -13,5 +13,3 @@ A simple number guessing game built using **HTML**, **CSS**, and **JavaScript**.
 5. Type `quit` to exit the game at any time.
 6. All messages and feedback are logged to the **browser console**.
 
-## 📁 Project Structure
-
